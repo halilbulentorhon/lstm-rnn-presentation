@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+tensorflow
+jupyter
+torch
+scikit-learn
+fasttext
+gensim
